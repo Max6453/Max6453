@@ -12,6 +12,8 @@ Frontend: [NextJS, Vue.js, React]
 
 Backend: [Supabase, MongoDB, PostgresSQL, mySQL]
 
+Mobile: [React-Native]
+
 Tools: [VSCode, Git, Docker, Expo, Postman]
 
 📫 You can learn more info about me on my web: 
