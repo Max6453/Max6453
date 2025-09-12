@@ -1,34 +1,22 @@
-Hi there 👋 I'm [Your Name]!
-A passionate [Your Role] based in [Your Location], with a love for building things that live on the internet. I'm always curious to learn new technologies and frameworks and am constantly looking for new challenges.
-
-🔭 What I'm currently working on...
-[Describe a project you're working on]
-
-[Describe another project or a skill you're learning]
-
-🌱 I'm currently learning...
-[A new language, framework, or concept]
-
-💡 I'm interested in...
-[A tech topic, e.g., machine learning, cybersecurity, cloud computing]
-
-[A personal hobby, e.g., photography, hiking, gaming]
+<h1>Hi there 👋 I'm Max!</h1>
+<br>
+I'm a web developer and freelancer eager to collaborate and building high quality websites and applications.
+My goals are to connect 2 things i love the most - motorsport and technology.
 
 💻 Tech I use
-Languages: [e.g., Python, JavaScript, TypeScript, C++]
+Languages : [JavaScript, Typescript, Python, SQL]
 
-Frameworks & Libraries: [e.g., React, Node.js, Django, Tailwind CSS]
+Styling: [CSS3, SASS(SCSS), TailwindCSS, Figma,] 
 
-Databases: [e.g., PostgreSQL, MongoDB, Firebase]
+Frontend: [NextJS, Vue.js, React]
 
-Tools: [e.g., Git, Docker, Figma, VS Code]
+Backend: [Supabase, MongoDB, PostgresSQL, mySQL]
 
-📫 Connect with me
-LinkedIn: [Your LinkedIn Profile URL]
+Tools: [VSCode, Git, Docker, Expo, Postman]
 
-Twitter: [Your Twitter Handle URL]
+📫 You can learn more info about me on my web: 
 
-Website: [Your Personal Website URL (optional)]
+Website: [https://maximharvancik.vercel.app]
 
 <!--
 Fun fact: Replace this with a fun fact about yourself!
