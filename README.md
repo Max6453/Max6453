@@ -10,7 +10,7 @@ Styling: [CSS3, SASS(SCSS), TailwindCSS, Figma,]
 
 Frontend: [NextJS, Vue.js, React]
 
-Backend: [Supabase, MongoDB, PostgresSQL, mySQL]
+Backend: [Node.js, Supabase, MongoDB, PostgresSQL, mySQL]
 
 Mobile: [React-Native]
 
