@@ -6,7 +6,7 @@ My goals are to connect 2 things i love the most - motorsport and technology.
 💻 Tech I use
 Languages : [JavaScript, Typescript, Python, SQL]
 
-Styling: [CSS3, SASS(SCSS), TailwindCSS, Figma,] 
+Styling: [CSS3, TailwindCSS, Figma] 
 
 Frontend: [NextJS, Vue.js, React]
 
