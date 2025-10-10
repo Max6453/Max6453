@@ -8,7 +8,7 @@ Languages : [JavaScript, Typescript, Python, SQL]
 
 Styling: [CSS3, TailwindCSS, Figma] 
 
-Frontend: [NextJS, Vue.js, React]
+Frontend: [NextJS, Vue.js, Nuxt, React]
 
 Backend: [Node.js, Supabase, MongoDB, PostgresSQL, mySQL]
 
