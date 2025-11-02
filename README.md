@@ -4,6 +4,7 @@ I'm a web developer and freelancer eager to collaborate and building high qualit
 My goal is to connect 2 things i love the most - motorsport and technology.
 
 💻 Tech I use
+
 Languages : [JavaScript, Typescript, Python, SQL]
 
 Styling: [CSS3, TailwindCSS, Figma] 
